@@ -1,0 +1,14 @@
+C:\C22JA\src\main\java\co\com\ps\C22JA\controller\UsuarioController.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\error\UsuarioErrorMessage.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\repository\ProductoRepository.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\controller\ProductoController.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\service\ProductoService.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\repository\UsuarioRepository.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\controller\GlobalExceptionHandler.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\entity\Producto.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\entity\Usuario.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\error\ProductoErrorMessage.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\service\UsuarioService.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\C22JaApplication.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\service\IProductoService.java
+C:\C22JA\src\main\java\co\com\ps\C22JA\service\IUsuarioService.java
